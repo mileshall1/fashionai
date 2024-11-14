@@ -1,2 +1,2 @@
 # fashionai
-AI fasion project, users can sumbit images or descriptions of their clothing/wardrobe 
+AI fasion project, users can submit images or descriptions of their clothing/wardrobe 
